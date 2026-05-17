@@ -33,3 +33,5 @@ bin/
 /.idea/libraries/jakarta_persistence_api.xml
 /.idea/libraries/slf4j_api.xml
 /.idea/libraries/springframework_data_spring_jpa.xml
+
+target/
